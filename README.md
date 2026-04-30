@@ -9,27 +9,31 @@
 - Y recuerda...si puedes imaginarlo puedes crearlo ✨
 *******************************************************************************
 
-![Mis Lenguajes](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,bash,r,arduino)
+### 🚀 Languages & Programming
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,bash,r,kotlin)](https://skillicons.dev)
 
-![Mis DBMS](https://skillicons.dev/icons?i=postgres,supabase)
+### 🌐 Web Development & Design
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
 
-![Mis sistemas operativos](https://skillicons.dev/icons?i=linux,windows)
+### 🗄️ Databases & Backend
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
 
-![Mis distribuciones de linux](https://skillicons.dev/icons?i=debian)
+### 🛠️ DevOps, Tools & Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,vscode,neovim)](https://skillicons.dev)
 
-![Mis Gestores de versiones](https://skillicons.dev/icons?i=git)
+### 🎮 Game Development & Hardware
+[![My Skills](https://skillicons.dev/icons?i=godot,arduino)](https://skillicons.dev)
 
-![Editores de codigo](https://skillicons.dev/icons?i=vscode,neovim)
+### 🐧 OS & Environments
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,windows)](https://skillicons.dev)
 
-![Gestores de tiempo](https://skillicons.dev/icons?i=obsidian,trello)
+### 🧠 Productivity & Workflow
+[![My Skills](https://skillicons.dev/icons?i=obsidian,trello)](https://skillicons.dev)
 
-![contenedores](https://skillicons.dev/icons?i=docker)
+---
 
-![Desarrollo de videojuegos](https://skillicons.dev/icons?i=godot)
-
-![redes sociales](https://skillicons.dev/icons?i=github,instagram,linkelin)
-
-![Herramientas de diseño](https://skillicons.dev/icons?i=figma)
+### 🤝 Connect with me
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
 
 <!--
 
