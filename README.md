@@ -30,10 +30,9 @@
 ### 🧠 Productivity & Workflow
 [![My Skills](https://skillicons.dev/icons?i=obsidian,trello)](https://skillicons.dev)
 
----
-
 ### 🤝 Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/TU_USUARIO_AQUI)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/TU_USUARIO_AQUI)
 
 <!--
 
