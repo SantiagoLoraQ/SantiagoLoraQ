@@ -1,12 +1,10 @@
-## Hola! Bienvenido a mi perfil 👋🐱‍👤
--Mi nombre es Santiago Leonardo Lora Quilla
-
+## Hi! welcome to my profile 👋🐱‍👤
+My name is Santiago Leonardo Lora Quilla. I'm a developer with a wide range of interests, from creating something simple to creating something magnificent. I enjoy taking on challenges. My primary operating system is Linux, I use Neovim as my code editor, and my main programming languages ​​are C and C++.
 ------------------------------------------------------------------------------
 •••••••••••••••••••••••••••••••••
 -------------------------------------------------------------------------------
 
 *******************************************************************************
-- Y recuerda...si puedes imaginarlo puedes crearlo ✨
 *******************************************************************************
 
 ### 🚀 Languages & Programming
@@ -33,7 +31,7 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/TU_USUARIO_AQUI)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/TU_USUARIO_AQUI)
-
+## Y recuerda...si puedes imaginarlo puedes crearlo ✨
 <!--
 
 -->
